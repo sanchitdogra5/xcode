@@ -20,6 +20,10 @@ html, body{
     font-family: "Poppins";
     scroll-behavior: smooth;
 }
+.ud>a{
+    text-decoration: none;
+    color: #0357D4;
+}
 .main{
     width: 100%;
     height: auto;
