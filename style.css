@@ -81,6 +81,7 @@ html, body{
 .box{
     width: 90%;
     height: 70vh;
+    max-height: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
